@@ -7,14 +7,14 @@ It is built using only the available default scenenry and terminal kit introduce
 * X-Plane 11.20 or higher
 
 **Required Libraries**
-None
+* None
 
 **Known Issues**
-If there are any problems, please contact us on the X-Plane.org thread of this project or in our Discord channel.
+* If there are any problems, please contact us on the X-Plane.org thread of this project or in our Discord channel.
 
 **Official Links**
-[Discord](https://discord.gg/rhStK8d)
-[X-Plane.org Thread](https://forums.x-plane.org/index.php?/forums/topic/172699-kind-indianapolis-international-airport-wip/)
+* [Discord](https://discord.gg/rhStK8d)
+* [X-Plane.org Thread](https://forums.x-plane.org/index.php?/forums/topic/172699-kind-indianapolis-international-airport-wip/)
 
 **Notice**
-[This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* [This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
