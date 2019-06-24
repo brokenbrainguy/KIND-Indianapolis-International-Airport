@@ -5739,14 +5739,6 @@ I
 55 12715 APCH/P
 56 11905 DEP/P
 56 12495 DEP/P
-1000 Southernly Flow (Major)
-1001 KIND 000 360 999
-1002 KIND 0
-1003 KIND 0.0
-1101 23L right
-1100 23L 13300 arrivals heavy|jets|turboprops 000000 000000 Arr Rwy 23L
-1100 23R 13300 departures heavy|jets|turboprops 000000 000000 Dep Rwy 23R
-1100 14 12495 arrivals|departures props|helos|fighters 000000 000000 Arr,Dep Rwy 14
 1200 
 1201  39.70806364 -086.28822444 both 0 _stop
 1201  39.70846010 -086.28874967 both 1 _stop
